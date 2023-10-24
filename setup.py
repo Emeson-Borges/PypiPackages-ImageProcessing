@@ -7,11 +7,11 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="image-processing-diolab-test",
+    name="image-processing",
     version="0.0.1",
     author="emeson_borges",
     author_email="borges2016.leh@gmail.com",
-    description="My short description",
+    description="Biblioteca para processamento de Imagens",
     long_description=page_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Emeson-Borges"
