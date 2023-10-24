@@ -23,7 +23,7 @@ The package image_processing is used to:
    - Comandos para criar distribuições
      python setup.py sdist bdist_wheel
 
-## Intalation
+## Installation
 Use the package manager [pip](https://pip.pypa.io/em/stable) to install package_name
 
 ```bash
